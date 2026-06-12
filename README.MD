@@ -11,4 +11,4 @@ The space for wires is very limited. The housing has supports and a slot for the
 - Each Button has a Testpoint on the PCB
 - Space is very limited
 
- <img width="150" alt="image" src="https://github.com/ludwich66/IKEA-Bilresa_Analyze/blob/main/IMG_5145.jpeg">
+ <img width="500" alt="image" src="https://github.com/ludwich66/IKEA-Bilresa_Analyze/blob/main/IMG_5145.jpeg">
